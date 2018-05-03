@@ -1,0 +1,15 @@
+form div {
+  margin-top: 25px;
+}
+
+.form-control {
+  border-radius: 0px !important;
+}
+
+.btn.btn-primary.center-block {
+  border-radius: 0px;
+}
+
+li.list-group-item {
+  border-radius: 0px !important;
+}
